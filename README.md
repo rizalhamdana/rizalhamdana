@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently I'm a Junior Software Engineer at SIRCLO. I'm focusing on Backend Engineering and have experiences on developing REST API using some programming languages and framework like Go and Java Spring Boot. 
+I am Rizal. A Software Engineer who are focusing on Backend Engineering and have experiences on developing REST API using some programming languages and framework like Go and Java Spring Boot. 
 
 Currently I'm also learning how to make a backend service using gRPC and GraphQL. Hopefully I can keep expanding my knowledge in the future.
 
